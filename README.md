@@ -48,7 +48,7 @@ The following hardware and software were used for training the model:
 - RAM: 32GB SSD
 - Operating System: macOS Ventura 13.1
 - Python version: 3.9.15
-- PyTorch-Nightly version: 2.0.0.dev20221222
+- PyTorch version: PyTorch-Nightly 2.0.0.dev20221222
 
   
 ## Contributing
