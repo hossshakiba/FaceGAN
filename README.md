@@ -41,7 +41,7 @@ There are more generated samples in the `samples` folder. The following images a
 <img  src="samples/epoch7_6601.jpg"/>
 </p>
 
-## Hardware and Software
+## Requirements
 The following hardware and software were used for training the model:
 - GPU: Apple M1 Max 32-Core-GPU
 - CPU: Apple M1‌ Max 10-core CPU
