@@ -20,7 +20,6 @@ There are more generated samples in the `samples` folder. The following images a
 <img  src="samples/epoch7_2975.jpg"/>
 <img  src="samples/epoch7_3408.jpg"/>
 <img  src="samples/epoch7_3741.jpg"/>
-<img  src="samples/epoch7_6587.jpg"/>
 <img  src="samples/epoch7_7773.jpg"/>
 <img  src="samples/epoch9_6237.jpg"/>
 <img  src="samples/epoch10_135.jpg"/>
