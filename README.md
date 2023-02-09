@@ -16,8 +16,6 @@ The following images show the results of the DCGAN after training for 10 epochs 
 There are more generated samples in the `samples` folder. The following images are some of my favorite generated ones.
 <p class="row" float="left" align="middle">
 <img src="samples/epoch4_2448.jpg"/>
-<img  src="samples/epoch5_4836.jpg"/>
-<img  src="samples/epoch5_7932.jpg"/>
 <img  src="samples/epoch6_2898.jpg"/>
 <img  src="samples/epoch7_2975.jpg"/>
 <img  src="samples/epoch7_3408.jpg"/>
@@ -40,7 +38,6 @@ There are more generated samples in the `samples` folder. The following images a
 <img  src="samples/epoch10_9534.jpg"/>
 <img  src="samples/epoch10_9625.jpg"/>
 <img  src="samples/epoch9_1863.jpg"/>
-<img  src="samples/epoch10_6734.jpg"/>
 <img  src="samples/epoch10_5621.jpg"/>
 <img  src="samples/epoch7_6601.jpg"/>
 </p>
