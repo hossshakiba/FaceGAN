@@ -1,4 +1,4 @@
-# Human-Face-Generator-DCGAN
+# Human Face Generator (DCGAN) 
 A Deep Convolutional Generative Adversarial Network (DCGAN) that generates human faces. This project is implemented using PyTorch and trained on the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset.
 <p class="row" float="left" align="middle">
 <img style="width: 100%; height: auto;" src="assets/generated_faces.gif"/>
