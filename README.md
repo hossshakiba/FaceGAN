@@ -10,10 +10,10 @@ DCGAN stands for Deep Convolutional Generative Adversarial Network, it's a type 
 ## Results
 The following images show the results of the DCGAN after training for 10 epochs on the CelebA dataset.
 <p class="row" float="left" align="middle">
-<img style="width: 50%; height: auto;" src="assets/results.png"/>
+<img style="width: 75%; height: auto;" src="assets/results.png"/>
 </p>
 
-There are more generated samples in the `samples` folder. The followings, are some of my favorites.
+There are more generated samples in the `samples` folder. The following images are some of my favorite generated ones.
 <p class="row" float="left" align="middle">
 <img src="samples/epoch4_2448.jpg"/>
 <img  src="samples/epoch5_4836.jpg"/>
@@ -31,4 +31,29 @@ There are more generated samples in the `samples` folder. The followings, are so
 <img  src="samples/epoch5_2557.jpg"/>
 <img  src="samples/epoch10_5622.jpg"/>
 <img  src="samples/epoch10_7262.jpg"/>
+<img  src="samples/epoch10_7640.jpg"/>
+<img  src="samples/epoch10_8631.jpg"/>
+<img  src="samples/epoch10_9065.jpg"/>
+<img  src="samples/epoch10_9226.jpg"/>
+<img  src="samples/epoch10_9257.jpg"/>
+<img  src="samples/epoch10_9449.jpg"/>
+<img  src="samples/epoch10_9534.jpg"/>
+<img  src="samples/epoch10_9625.jpg"/>
+<img  src="samples/epoch9_1863.jpg"/>
+<img  src="samples/epoch10_6734.jpg"/>
+<img  src="samples/epoch10_5621.jpg"/>
+<img  src="samples/epoch7_6601.jpg"/>
 </p>
+
+## Hardware and Software
+The following hardware and software were used for training the model:
+- GPU: Apple M1 Max 32-Core-GPU
+- CPU: Apple M1‌ Max 10-core CPU
+- RAM: 32GB SSD
+- Operating System: macOS Ventura 13.1
+- Python version: 3.9.15
+- PyTorch-Nightly version: 2.0.0.dev20221222
+
+  
+## Contributing
+Contributions are welcome! Please open a pull request or issue for any improvements or bug fixes.
