@@ -52,4 +52,4 @@ The following hardware and software were used for training the model:
 
   
 ## Contributing
-Contributions are welcome! Please open a pull request or issue for any improvements or bug fixes.
+Contributions are welcome! :heart: Please open a pull request or issue for any improvements or bug fixes.
