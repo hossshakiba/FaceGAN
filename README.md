@@ -19,7 +19,7 @@ The following images show the results of the DCGAN after training for 10 epochs 
 <img style="width: 75%; height: auto;" src="assets/results.png"/>
 </p>
 
-There are more generated samples in the `samples` folder. The following images are some of my favorite generated ones.
+The following images are some of my favorite generated samples:
 <p class="row" float="left" align="middle">
 <img src="samples/epoch4_2448.jpg"/>
 <img  src="samples/epoch6_2898.jpg"/>
